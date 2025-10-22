@@ -1,0 +1,48 @@
+:root{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f9f9f9;
+    color: #444;
+    margin: 20px;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+nav {
+    margin: 10px 0;
+    text-align: center;
+    text-decoration: none;
+
+}   
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ffffff;
+}    
+
+ul {
+    list-style-type: none;
+    margin-left: 20px;
+}
